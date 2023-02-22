@@ -1,0 +1,27 @@
+
+body{
+    background-image: url(/images/blacksky.jpg);
+    background-repeat: no-repeat;
+    background-size: size;
+}
+
+table{
+    border-style: solid 1px;
+border-collapse: collapse;
+border-color: black;
+margin: 5% 20%; 
+
+
+}
+th{
+background-color: brown;
+color: blue;
+}
+th,td{
+
+width: 300px;
+text-align: center;
+border: 1px solid black;
+padding: 8px;
+
+}

@@ -1,0 +1,18 @@
+body{
+    background-image: url(/images/blacksky.jpg);
+            background-repeat: no-repeat;
+            background-size: size;
+}
+ .form{
+    margin-left: 55%;
+ }
+ #image{
+    float: left;
+    width: 45%;
+    height: 500px;
+
+ }
+#button3{
+   background-color: aqua;
+   padding: 1% 3%;
+}

@@ -1,0 +1,29 @@
+.form{
+    text-align: center;
+    margin-top: 1px;
+}
+    .body{
+    background-image: url(/images/flowerjpg);
+    background-repeat: repeat;
+    
+}
+.div{
+    justify-self: left;
+    margin-left: 50%;
+    padding: 0 20px 15px 10px;
+    }
+    
+#image{
+float: left;
+width: 45%;
+height: 500px;
+} 
+#button1{
+    background-color: aqua;
+     padding: 1% 3%;
+    text-align: center;
+}
+#button2{
+    background-color: red;
+    padding: 1% 3%;
+}
